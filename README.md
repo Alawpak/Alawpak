@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align='center'>👋 Here Alan!</h1>
+<p align='center'>
+<a href="https://wakatime.com/@be7260bf-9a26-4606-a1bc-addac26f594e"><img src="https://wakatime.com/badge/user/be7260bf-9a26-4606-a1bc-addac26f594e.svg"/></a>
+<a href="https://visitorbadge.io/status?path=alawpak%2Falawpak"><img src="https://api.visitorbadge.io/api/visitors?path=alawpak%2Falawpak&label=👻 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
+<a href="https://github.com/alawpak?tab=repositories"><img src="https://img.shields.io/github/stars/alawpak?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
+</p>
+
+## About me
 
 <!--
 **Alawpak/Alawpak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
